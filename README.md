@@ -1,2 +1,2 @@
-# C/C++ Guess the number
-Guess the number minigame written in C/C++ as a step in my learning curve of the beautiful programming language.
+# Guess the number
+Guess the number minigame written in C as a step in my beautiful programming language learning curve.
